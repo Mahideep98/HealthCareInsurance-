@@ -43,6 +43,7 @@ export default class Hadmin extends React.Component {
               <button
                 className="btn btn-primary btn-block"
                 onClick={this.handleClick}
+
               >
                 Approve
               </button>
